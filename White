@@ -1,0 +1,6 @@
+#include <Stdio.h>
+int  main (){
+pintf("666");
+
+return 0;
+}
